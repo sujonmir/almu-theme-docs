@@ -91,4 +91,4 @@ Almu inherits Shopify's checkout. To brand the checkout, go to **Settings → Ch
 
 ## Section-specific settings
 
-Every section has its own settings panel — see the [sections reference]({% link sections/index.md %}) for per-section documentation.
+Every section has its own settings panel — see the [sections reference]({{ "/sections/" | relative_url }}) for per-section documentation.

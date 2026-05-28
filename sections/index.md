@@ -14,26 +14,26 @@ Almu ships with 50 sections. Each section is independently configurable through 
 
 | Section | Use on | Notes |
 | --- | --- | --- |
-| [Header]({% link sections/header.md %}) | Every page (header group) | Mega menu, search overlay, mobile menu |
-| [Footer]({% link sections/footer.md %}) | Every page (footer group) | Menus, payment icons, newsletter, social |
-| [Announcement bar]({% link sections/announcement-bar.md %}) | Every page (header group, optional) | Sticky banner above the header |
-| [Cart drawer]({% link sections/cart.md %}) | Rendered globally | Cart drawer + cart page |
-| [Newsletter popup]({% link sections/newsletter-popup.md %}) | Rendered globally | Timed popup with email capture |
+| [Header]({{ "/sections/header/" | relative_url }}) | Every page (header group) | Mega menu, search overlay, mobile menu |
+| [Footer]({{ "/sections/footer/" | relative_url }}) | Every page (footer group) | Menus, payment icons, newsletter, social |
+| [Announcement bar]({{ "/sections/announcement-bar/" | relative_url }}) | Every page (header group, optional) | Sticky banner above the header |
+| [Cart drawer]({{ "/sections/cart/" | relative_url }}) | Rendered globally | Cart drawer + cart page |
+| [Newsletter popup]({{ "/sections/newsletter-popup/" | relative_url }}) | Rendered globally | Timed popup with email capture |
 
 ## Page templates
 
 | Section | Used on |
 | --- | --- |
-| [Main product]({% link sections/main-product.md %}) | Product pages (PDP) |
-| [Collection]({% link sections/collection.md %}) | Collection pages |
-| [Cart]({% link sections/cart.md %}) | Cart page |
-| [Blog]({% link sections/blog.md %}) | Blog listing |
-| [Article]({% link sections/article.md %}) | Single blog post |
-| [Page]({% link sections/page.md %}) | Static pages (About, etc.) |
-| [Password]({% link sections/password.md %}) | Password page (when store is locked) |
-| [404]({% link sections/404.md %}) | Not found |
-| [Search]({% link sections/search.md %}) | Search results |
-| [Gift card]({% link sections/gift-card-display.md %}) | Gift card page |
+| [Main product]({{ "/sections/main-product/" | relative_url }}) | Product pages (PDP) |
+| [Collection]({{ "/sections/collection/" | relative_url }}) | Collection pages |
+| [Cart]({{ "/sections/cart/" | relative_url }}) | Cart page |
+| [Blog]({{ "/sections/blog/" | relative_url }}) | Blog listing |
+| [Article]({{ "/sections/article/" | relative_url }}) | Single blog post |
+| [Page]({{ "/sections/page/" | relative_url }}) | Static pages (About, etc.) |
+| [Password]({{ "/sections/password/" | relative_url }}) | Password page (when store is locked) |
+| [404]({{ "/sections/404/" | relative_url }}) | Not found |
+| [Search]({{ "/sections/search/" | relative_url }}) | Search results |
+| [Gift card]({{ "/sections/gift-card-display/" | relative_url }}) | Gift card page |
 
 ## Marketing / homepage
 

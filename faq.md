@@ -51,7 +51,7 @@ Two usual reasons:
 1. **Installed apps.** Each app adds JS to your storefront. Audit your app list.
 2. **Image sizes.** If product images are 5 MB each, no theme can save you. Compress to ≤ 200 KB per image.
 
-See the [performance guide]({% link performance.md %}) for more.
+See the [performance guide]({{ "/performance/" | relative_url }}) for more.
 
 ### Is the theme fast on Cyber Monday traffic?
 

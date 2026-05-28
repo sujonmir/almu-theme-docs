@@ -3,6 +3,7 @@ description: Official documentation for the Almu Shopify theme — installation,
 remote_theme: just-the-docs/just-the-docs
 url: https://sujonmir.github.io
 baseurl: /almu-theme-docs
+permalink: pretty
 
 # Search
 search_enabled: true

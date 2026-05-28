@@ -12,8 +12,8 @@ permalink: /
 A modern, fast, and fully-customisable Shopify theme. This site documents every setting, section, and customisation point.
 {: .fs-6 .fw-300 }
 
-[Install the theme]({% link installation.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Get support]({% link support.md %}){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Install the theme]({{ "/installation/" | relative_url }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get support]({{ "/support/" | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -31,17 +31,17 @@ Almu is built around three principles: **performance, accessibility, and granula
 
 ## Getting started
 
-1. [Install the theme]({% link installation.md %}) on your Shopify store.
-2. Configure [global theme settings]({% link theme-settings.md %}) — colors, typography, cart drawer.
-3. Browse the [sections reference]({% link sections/index.md %}) to learn what each section does and how to configure it.
-4. Read the [customisation guide]({% link customization/index.md %}) for cart drawer, newsletter popup, back-to-top, etc.
-5. Optional: review [performance]({% link performance.md %}) and [accessibility]({% link accessibility.md %}) features.
+1. [Install the theme]({{ "/installation/" | relative_url }}) on your Shopify store.
+2. Configure [global theme settings]({{ "/theme-settings/" | relative_url }}) — colors, typography, cart drawer.
+3. Browse the [sections reference]({{ "/sections/" | relative_url }}) to learn what each section does and how to configure it.
+4. Read the [customisation guide]({{ "/customization/" | relative_url }}) for cart drawer, newsletter popup, back-to-top, etc.
+5. Optional: review [performance]({{ "/performance/" | relative_url }}) and [accessibility]({{ "/accessibility/" | relative_url }}) features.
 
 ## Need help?
 
-- **FAQ** — [Frequently asked questions]({% link faq.md %})
+- **FAQ** — [Frequently asked questions]({{ "/faq/" | relative_url }})
 - **Support** — [sujonmhk786@gmail.com](mailto:sujonmhk786@gmail.com?subject=Almu%20%7C%20) (please prefix subject with `Almu | `)
-- **Updates** — see the [changelog]({% link changelog.md %}) for what's new in each version
+- **Updates** — see the [changelog]({{ "/changelog/" | relative_url }}) for what's new in each version
 
 ---
 
