@@ -13,7 +13,7 @@ A modern, fast, and fully-customisable Shopify theme. This site documents every 
 {: .fs-6 .fw-300 }
 
 [Install the theme]({% link installation.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on Shopify Theme Store](https://themes.shopify.com/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get support]({% link support.md %}){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 

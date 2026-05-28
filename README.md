@@ -1,6 +1,6 @@
 # Almu Theme Documentation
 
-This repository contains the public documentation for the **[Almu Shopify theme](https://themes.shopify.com/)**, published at:
+This repository contains the public documentation for the **Almu Shopify theme**, published at:
 
 **https://sujonmir.github.io/almu-theme-docs/**
 

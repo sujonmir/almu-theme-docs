@@ -14,7 +14,7 @@ nav_order: 2
 
 ## 1. Purchase and add the theme
 
-1. Go to the [Almu theme listing on the Shopify Theme Store](https://themes.shopify.com/).
+1. Go to the Almu listing on the Shopify Theme Store (link added here once approved).
 2. Click **Try theme** to demo it on your store before paying, or **Buy theme** to purchase directly.
 3. After purchase, Shopify will automatically add Almu to your store's **Online Store → Themes** library.
 

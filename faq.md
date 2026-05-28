@@ -14,7 +14,7 @@ Yes — Almu works on every Shopify plan (Basic, Shopify, Advanced, Plus). All f
 
 ### Can I use Almu on multiple stores with one purchase?
 
-No. The Shopify Theme Store license is per-store. Each store needs its own purchase. See the [LICENSE.md](https://github.com/) in the theme for full terms.
+No. The Shopify Theme Store license is per-store. Each store needs its own purchase. Full license terms ship with the theme as `LICENSE.md` in the theme files (visible from **Online Store → Themes → Almu → Actions → Edit code**).
 
 ### Do I get free updates?
 
